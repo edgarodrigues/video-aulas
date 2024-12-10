@@ -6,3 +6,17 @@
   font-size: 18pt;
   font-weight: 500;
 }
+
+.footer-endereco{
+  width: 100%;
+  height: 10%;
+  background-color: brown;
+  color: aliceblue;
+  font-size: 13pt;
+  text-align: center;
+}
+
+.text-endereco {
+ position: relative;
+ top: 27%;
+}
